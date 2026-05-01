@@ -21514,6 +21514,13 @@
     githubId = 2151333;
     name = "Piotr Kwiecinski";
   };
+  piotrpdev = {
+    email = "piotrpdev@gmail.com";
+    github = "piotrpdev";
+    githubId = 99439005;
+    name = "Piotr Płaczek";
+    keys = [ { fingerprint = "B4A4 4577 30D6 B2D4 C51E  69F2 8F33 147A 6EF6 EAB6"; } ];
+  };
   piperswe = {
     email = "contact@piperswe.me";
     github = "piperswe";
